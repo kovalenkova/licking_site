@@ -1780,6 +1780,11 @@ border-radius: 0px 47px 47px 47px;
 		overflow: visible;
 		width: 89.242px;
 		height: 70.33329772949219px;
+		transition: all 0.3s ease-in;
+		--web-animation: fadein 0.3s ease-in;
+		--web-action-type: page;
+		--web-action-target: home_page.html;
+		cursor: pointer;
 		line-height: 30.555559158325195px;
 		margin-top: -2.7777795791625977px;
 		text-align: left;
@@ -1812,6 +1817,7 @@ border-radius: 0px 47px 47px 47px;
 		overflow: visible;
 		width: 112.189px;
 		height: 70.33329772949219px;
+		cursor: pointer;
 		line-height: 30.555559158325195px;
 		margin-top: -2.7777795791625977px;
 		text-align: left;
@@ -1828,6 +1834,11 @@ border-radius: 0px 47px 47px 47px;
 		overflow: visible;
 		width: 210.189px;
 		height: 70.33329772949219px;
+		transition: all 0.3s ease-in;
+		--web-animation: fadein 0.3s ease-in;
+		--web-action-type: page;
+		--web-action-target: Partners_Page.html;
+		cursor: pointer;
 		line-height: 30.555559158325195px;
 		margin-top: -2.7777795791625977px;
 		text-align: left;
@@ -5222,7 +5233,7 @@ window.application = new Application();
 			<ellipse id="Ellipse_2_copy_2_xi" rx="18.5" ry="18.5" cx="18.5" cy="18.5">
 			</ellipse>
 		</svg>
-		<div id="HOME_xj">
+		<div onclick="application.goToTargetView(event)" id="HOME_xj">
 			<span>HOME</span>
 		</div>
 		<div id="MENU_xk">
@@ -5231,7 +5242,7 @@ window.application = new Application();
 		<div id="MERCH_xl">
 			<span>MERCH</span>
 		</div>
-		<div id="OUR_PARTNERS_xm">
+		<div onclick="application.goToTargetView(event)" id="OUR_PARTNERS_xm">
 			<span>OUR PARTNERS</span>
 		</div>
 		<img id="bag_xn" src="bag_xn.png" srcset="bag_xn.png 1x, bag_xn@2x.png 2x">

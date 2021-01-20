@@ -1061,6 +1061,11 @@
 	overflow: visible;
 	width: 89.242px;
 	height: 70.33329772949219px;
+	transition: all 0.3s ease-in;
+    --web-animation: fadein 0.3s ease-in;
+    --web-action-type: page;
+    --web-action-target: home_page.html;
+    cursor: pointer;
 	line-height: 30.555559158325195px;
 	margin-top: -2.7777795791625977px;
 	text-align: left;
@@ -1093,6 +1098,10 @@
 	overflow: visible;
 	width: 112.189px;
 	height: 70.33329772949219px;
+    --web-animation: fadein 0.3s ease-in;
+    --web-action-type: page;
+    --web-action-target: MERCH.html;
+    cursor: pointer;
 	line-height: 30.555559158325195px;
 	margin-top: -2.7777795791625977px;
 	text-align: left;
