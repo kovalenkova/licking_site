@@ -564,7 +564,7 @@
 	transition: all 2s snap;
 	--web-animation: fadein 2s snap;
 	--web-action-type: page;
-	--web-action-target: index.html;
+	--web-action-target: home_page.html;
 	cursor: pointer;
 }
 #Rectangle_9_cft {
