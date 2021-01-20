@@ -1,0 +1,680 @@
+@font-face {
+	font-family: "Blacksword";
+	src: url("Blacksword.otf") format("opentype")
+}
+
+@font-face {
+	font-family: "Impact";
+	src: url("impact.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "DINCondensed-Bold";
+	src: url("din-condensed-bold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Futura";
+	src: url("futur.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Futura-Bold";
+	src: url("Futura\ Bold\ font.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Futura-MediumItalic";
+	src: url("Futura\ Medium\ Italic\ font.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Sketch";
+	src: url("Sketch.ttf") format("truetype");
+}
+.mediaViewInfo {
+	--web-view-name: Splash page final;
+	--web-view-id: Splash_page_final;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Splash_page_final;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Splash_page_final {
+	position: absolute;
+	width: 1920px;
+	height: 1083px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Splash page final;
+	--web-view-id: Splash_page_final;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Rectangle_7_ceq {
+	fill: rgba(8,8,8,1);
+}
+.Rectangle_7_ceq {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1083px;
+	left: 0px;
+	top: 0px;
+}
+#backround_cer {
+	position: absolute;
+	width: 2054.18px;
+	height: 1773.2px;
+	left: -134px;
+	top: -239px;
+	overflow: visible;
+}
+#Layer_0_ces {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 131.413px;
+	top: 245.271px;
+	overflow: visible;
+}
+#Color_Fill_1_cet {
+	fill: rgba(0,0,0,1);
+}
+.Color_Fill_1_cet {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 131.413px;
+	top: 245.271px;
+}
+#licking_backround__ceu {
+	opacity: 0.09;
+	position: absolute;
+	width: 2054.18px;
+	height: 1773.2px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Background_cev {
+	position: absolute;
+	width: 1926.528px;
+	height: 1078.616px;
+	left: 127.651px;
+	top: 245.685px;
+	overflow: visible;
+}
+#Color_Fill_1_cew {
+	fill: rgba(46,46,46,1);
+}
+.Color_Fill_1_cew {
+	position: absolute;
+	overflow: visible;
+	width: 1926.528px;
+	height: 1078.616px;
+	left: 127.651px;
+	top: 245.685px;
+}
+#Layer_2_cex {
+	opacity: 0.878;
+	mix-blend-mode: overlay;
+	position: absolute;
+	width: 1936.516px;
+	height: 1324.301px;
+	left: 117.664px;
+	top: 0px;
+	overflow: visible;
+}
+#FRIED_LOBSTER_cey {
+	left: 168.621px;
+	top: 243.182px;
+	position: absolute;
+	overflow: visible;
+	width: 692.169px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+}
+#SIDES_cez {
+	left: 176.242px;
+	top: 745.444px;
+	position: absolute;
+	overflow: visible;
+	width: 167.852px;
+	height: 175.9583740234375px;
+	line-height: 85px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 71px;
+	color: rgba(255,255,255,1);
+}
+#DRINKS_ce {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,-158.3811,168.4628) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 347.207px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+}
+#FROZEN_ce {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,1074.038,479.0643) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 347.207px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+}
+#FRIES_ce {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,473.6304,128.6915) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 257.677px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+}
+#FINGALICKING_ce {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,405.5472,168.7955) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 578.724px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#STEAK_ce {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,1397.2282,169.8409) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 273.21px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#CHICKEN_TENDERS_FRIES_ce {
+	left: 1011.815px;
+	top: 276.37px;
+	position: absolute;
+	overflow: visible;
+	width: 1028.128px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#SEAFOOD_ce {
+	left: 1011.815px;
+	top: 719.669px;
+	position: absolute;
+	overflow: visible;
+	width: 1028.128px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#MIRAMAR_ce {
+	left: 356.656px;
+	top: 736.647px;
+	position: absolute;
+	overflow: visible;
+	width: 388.612px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#MORE_WINGSSSSSSSSS_ce {
+	left: 1183.795px;
+	top: 1048.318px;
+	position: absolute;
+	overflow: visible;
+	width: 617.87px;
+	height: 182.29852294921875px;
+	line-height: 89px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 74px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#YUMMMMM_ce {
+	left: 285.747px;
+	top: 390.092px;
+	position: absolute;
+	overflow: visible;
+	width: 1028.128px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#WINGS_cfa {
+	left: 168.896px;
+	top: 855.969px;
+	position: absolute;
+	overflow: visible;
+	width: 488.118px;
+	height: 514.6776733398438px;
+	line-height: 250px;
+	margin-top: -21px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 208px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#SUNRISE_cfb {
+	left: 1172.609px;
+	top: 1132.614px;
+	position: absolute;
+	overflow: visible;
+	width: 660.622px;
+	height: 514.6776733398438px;
+	line-height: 250px;
+	margin-top: -21px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 208px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#MIAMI_cfc {
+	left: 1011.815px;
+	top: 360.751px;
+	position: absolute;
+	overflow: visible;
+	width: 810.259px;
+	height: 778.262451171875px;
+	line-height: 300px;
+	margin-top: -25px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 250px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#GARDENS_cfd {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,1279.401,223.8649) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 728.242px;
+	height: 554.81103515625px;
+	line-height: 214px;
+	margin-top: -18px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 178px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#ORLANDO_cfe {
+	left: 157.911px;
+	top: 994.938px;
+	position: absolute;
+	overflow: visible;
+	width: 1026.868px;
+	height: 778.262451171875px;
+	line-height: 300px;
+	margin-top: -25px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 250px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#Layer_1_cff {
+	position: absolute;
+	width: 176.773px;
+	height: 178.771px;
+	left: 1840.455px;
+	top: 1113.572px;
+	overflow: visible;
+}
+#lobster_cfg {
+	position: absolute;
+	width: 286.632px;
+	height: 200.742px;
+	left: 356.358px;
+	top: 494.366px;
+	overflow: visible;
+}
+#musical-note_cfh {
+	position: absolute;
+	width: 174.775px;
+	height: 174.776px;
+	left: 707.907px;
+	top: 841.92px;
+	overflow: visible;
+}
+#musical-note_copy_cfi {
+	position: absolute;
+	width: 174.775px;
+	height: 174.776px;
+	left: 934.616px;
+	top: 835.928px;
+	overflow: visible;
+}
+#musical-note_copy_2_cfj {
+	position: absolute;
+	width: 174.775px;
+	height: 174.776px;
+	left: 1161.326px;
+	top: 835.928px;
+	overflow: visible;
+}
+#cocktail_cfk {
+	position: absolute;
+	width: 230.704px;
+	height: 288.63px;
+	left: 1556.818px;
+	top: 702.099px;
+	overflow: visible;
+}
+#drink-web_cfl {
+	position: absolute;
+	width: 908px;
+	height: 1135px;
+	left: 1077px;
+	top: -165px;
+	overflow: visible;
+}
+#words_logo_cfm {
+	filter: drop-shadow(0px 23px 32px rgba(0, 0, 0, 0.506));
+	position: absolute;
+	width: 783px;
+	height: 144px;
+	left: 256.413px;
+	top: 71.271px;
+	overflow: visible;
+}
+#instagram_cfn {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	left: 1459px;
+	top: 930px;
+	overflow: visible;
+}
+#twitter_cfo {
+	position: absolute;
+	width: 39px;
+	height: 39px;
+	left: 1553px;
+	top: 931px;
+	overflow: visible;
+}
+#facebook_cfp {
+	position: absolute;
+	width: 44px;
+	height: 44px;
+	left: 1643px;
+	top: 926px;
+	overflow: visible;
+}
+#Follow_us__cfq {
+	left: 1290px;
+	top: 932px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_8_cfr {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	width: 1051px;
+	height: 590px;
+	left: 123px;
+	top: 263px;
+	overflow: visible;
+}
+#go {
+	position: absolute;
+	width: 676px;
+	height: 91px;
+	left: 310px;
+	top: 914px;
+	overflow: visible;
+	transition: all 2s snap;
+	--web-animation: fadein 2s snap;
+	--web-action-type: page;
+	--web-action-target: home_page.html;
+	cursor: pointer;
+}
+#Rectangle_9_cft {
+	fill: rgba(255,213,50,1);
+}
+.Rectangle_9_cft {
+	position: absolute;
+	overflow: visible;
+	width: 676px;
+	height: 91px;
+	left: 0px;
+	top: 0px;
+}
+#TAKE_ME_TO_THE_FOOD {
+	left: 47px;
+	top: 20px;
+	position: absolute;
+	overflow: visible;
+	width: 492px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(7,7,7,1);
+}
+#fast-forward {
+	position: absolute;
+	width: 79.846px;
+	height: 58.551px;
+	left: 570px;
+	top: 16px;
+	overflow: visible;
+}
+#Group_2 {
+	position: absolute;
+	width: 45.248px;
+	height: 58.551px;
+	left: 34.598px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_1 {
+	position: absolute;
+	width: 45.248px;
+	height: 58.551px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(0,0,0,1);
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 45.248px;
+	height: 58.551px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_4 {
+	position: absolute;
+	width: 45.248px;
+	height: 58.551px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_3 {
+	position: absolute;
+	width: 45.248px;
+	height: 58.551px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_2 {
+	fill: rgba(0,0,0,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 45.248px;
+	height: 58.551px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#POWERED_BY__cf {
+	left: 1268px;
+	top: 1009px;
+	position: absolute;
+	overflow: visible;
+	width: 206px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#ID7D897788-DCA1-4048-90F1-398F_cf {
+	position: absolute;
+	width: 189px;
+	height: 94px;
+	left: 1500px;
+	top: 989px;
+	overflow: visible;
+}

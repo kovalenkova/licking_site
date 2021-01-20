@@ -1,0 +1,1253 @@
+@font-face {
+	font-family: "Blacksword";
+	src: url("Blacksword.otf") format("opentype")
+}
+
+@font-face {
+	font-family: "Impact";
+	src: url("impact.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "DINCondensed-Bold";
+	src: url("din-condensed-bold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Futura";
+	src: url("futur.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Futura-Bold";
+	src: url("Futura\ Bold\ font.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Futura-MediumItalic";
+	src: url("Futura\ Medium\ Italic\ font.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Sketch";
+	src: url("Sketch.ttf") format("truetype");
+}
+
+.mediaViewInfo {
+	--web-view-name: Partners Page;
+	--web-view-id: Partners_Page;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-actual-size-on-double-click: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Partners_Page;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Partners_Page {
+	position: absolute;
+	width: 1920px;
+	height: 1083px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Partners Page;
+	--web-view-id: Partners_Page;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: fit;
+	--web-enable-scale-up: true;
+	--web-scale-on-resize: true;
+	--web-actual-size-on-double-click: true;
+	--web-enable-deep-linking: true;
+}
+#the_licking_site_redesign__bn {
+	position: absolute;
+	width: 2054.18px;
+	height: 1773.2px;
+	left: -130px;
+	top: -243px;
+	overflow: visible;
+}
+#backround_bo {
+	position: absolute;
+	width: 2054.18px;
+	height: 1773.2px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Layer_0_bp {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	left: 131.413px;
+	top: 245.271px;
+	overflow: visible;
+}
+#Color_Fill_1_bq {
+	fill: rgba(0,0,0,1);
+}
+.Color_Fill_1_bq {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1080px;
+	left: 131.413px;
+	top: 245.271px;
+}
+#licking_backround__br {
+	opacity: 0.09;
+	position: absolute;
+	width: 2054.18px;
+	height: 1773.2px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Background_bs {
+	position: absolute;
+	width: 1926.529px;
+	height: 1078.616px;
+	left: 127.652px;
+	top: 245.685px;
+	overflow: visible;
+}
+#Color_Fill_1_bt {
+	fill: rgba(46,46,46,1);
+}
+.Color_Fill_1_bt {
+	position: absolute;
+	overflow: visible;
+	width: 1926.529px;
+	height: 1078.616px;
+	left: 127.652px;
+	top: 245.685px;
+}
+#Layer_2_bu {
+	opacity: 0.878;
+	mix-blend-mode: overlay;
+	position: absolute;
+	width: 1936.516px;
+	height: 1324.301px;
+	left: 117.665px;
+	top: 0px;
+	overflow: visible;
+}
+#FRIED_LOBSTER_bv {
+	left: 168.621px;
+	top: 243.182px;
+	position: absolute;
+	overflow: visible;
+	width: 692.169px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+}
+#SIDES_bw {
+	left: 176.242px;
+	top: 745.444px;
+	position: absolute;
+	overflow: visible;
+	width: 167.852px;
+	height: 175.9583740234375px;
+	line-height: 85px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 71px;
+	color: rgba(255,255,255,1);
+}
+#DRINKS_bx {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,-158.3811,168.4628) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 347.207px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+}
+#FROZEN_by {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,1074.038,479.0643) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 347.207px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+}
+#FRIES_bz {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,473.6304,128.6915) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 257.677px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+}
+#FINGALICKING_caa {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,405.5472,168.7955) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 578.724px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#STEAK_b {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,1397.2282,169.8409) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 273.21px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#CHICKEN_TENDERS_FRIES_b {
+	left: 1011.815px;
+	top: 276.369px;
+	position: absolute;
+	overflow: visible;
+	width: 1028.128px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#SEAFOOD_b {
+	left: 1011.815px;
+	top: 719.669px;
+	position: absolute;
+	overflow: visible;
+	width: 1028.128px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#MIRAMAR_caa {
+	left: 356.656px;
+	top: 736.647px;
+	position: absolute;
+	overflow: visible;
+	width: 388.612px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#MORE_WINGSSSSSSSSS_b {
+	left: 1183.795px;
+	top: 1048.318px;
+	position: absolute;
+	overflow: visible;
+	width: 617.87px;
+	height: 182.29852294921875px;
+	line-height: 89px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 74px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#YUMMMMM_b {
+	left: 285.747px;
+	top: 390.092px;
+	position: absolute;
+	overflow: visible;
+	width: 1028.128px;
+	height: 284.7481689453125px;
+	line-height: 138px;
+	margin-top: -11.5px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 115px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#WINGS_b {
+	left: 168.897px;
+	top: 855.969px;
+	position: absolute;
+	overflow: visible;
+	width: 488.118px;
+	height: 514.6776733398438px;
+	line-height: 250px;
+	margin-top: -21px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 208px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#SUNRISE_b {
+	left: 1172.609px;
+	top: 1132.614px;
+	position: absolute;
+	overflow: visible;
+	width: 660.622px;
+	height: 514.6776733398438px;
+	line-height: 250px;
+	margin-top: -21px;
+	text-align: left;
+	font-family: DINCondensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 208px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#MIAMI_b {
+	left: 1011.815px;
+	top: 360.751px;
+	position: absolute;
+	overflow: visible;
+	width: 810.259px;
+	height: 778.262451171875px;
+	line-height: 300px;
+	margin-top: -25px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 250px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#GARDENS_caa {
+	transform: translate(127.652px, 245.685px) matrix(1,0,0,1,1279.401,223.8649) rotate(90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 728.242px;
+	height: 554.81103515625px;
+	line-height: 214px;
+	margin-top: -18px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 178px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#ORLANDO_cab {
+	left: 157.911px;
+	top: 994.938px;
+	position: absolute;
+	overflow: visible;
+	width: 1026.868px;
+	height: 778.262451171875px;
+	line-height: 300px;
+	margin-top: -25px;
+	text-align: left;
+	font-family: Impact;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 250px;
+	color: rgba(255,255,255,1);
+	letter-spacing: 0.5px;
+}
+#Layer_1_cac {
+	position: absolute;
+	width: 176.773px;
+	height: 178.771px;
+	left: 1840.455px;
+	top: 1113.571px;
+	overflow: visible;
+}
+#lobster_cad {
+	position: absolute;
+	width: 286.632px;
+	height: 200.742px;
+	left: 356.358px;
+	top: 494.366px;
+	overflow: visible;
+}
+#musical-note_cae {
+	position: absolute;
+	width: 174.776px;
+	height: 174.776px;
+	left: 707.907px;
+	top: 841.92px;
+	overflow: visible;
+}
+#musical-note_copy_caf {
+	position: absolute;
+	width: 174.776px;
+	height: 174.776px;
+	left: 934.617px;
+	top: 835.928px;
+	overflow: visible;
+}
+#musical-note_copy_2_cag {
+	position: absolute;
+	width: 174.776px;
+	height: 174.776px;
+	left: 1161.326px;
+	top: 835.928px;
+	overflow: visible;
+}
+#cocktail_cah {
+	position: absolute;
+	width: 230.704px;
+	height: 288.63px;
+	left: 1556.818px;
+	top: 702.099px;
+	overflow: visible;
+}
+#Menu_box_large_cai {
+	position: absolute;
+	width: 579px;
+	height: 846px;
+	left: 1277.413px;
+	top: 402.271px;
+	display: none;
+	overflow: visible;
+}
+#Rectangle_2_caj {
+	opacity: 0.322;
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_2_caj {
+	overflow: visible;
+	position: absolute;
+	width: 558px;
+	height: 831px;
+	left: 11px;
+	top: 15px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#specials_logo_cak {
+	filter: drop-shadow(0px 23px 32px rgba(0, 0, 0, 0.761));
+	position: absolute;
+	width: 579px;
+	height: 106px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_3_copy_2_cal {
+	position: absolute;
+	width: 160px;
+	height: 151px;
+	left: 63px;
+	top: 666px;
+	overflow: visible;
+}
+#Rectangle_3_copy_2_cam {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_3_copy_2_cam {
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	height: 151px;
+	left: 0px;
+	top: 0px;
+}
+#Clip_can {
+	position: absolute;
+	width: 160px;
+	height: 151px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Seafood_Rice__cao {
+	left: 310px;
+	top: 670.75px;
+	position: absolute;
+	overflow: hidden;
+	width: 189.24px;
+	height: 61.983699798583984px;
+	line-height: 30.555559158325195px;
+	margin-top: -2.7777795791625977px;
+	text-align: left;
+	font-family: Futura-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_cap {
+	left: 281.809px;
+	top: 706.316px;
+	position: absolute;
+	overflow: hidden;
+	width: 239.584px;
+	height: 81.98470306396484px;
+	line-height: 23.36564064025879px;
+	margin-top: -5.310370445251465px;
+	text-align: center;
+	font-family: Futura-MediumItalic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12.74489974975586px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_4_copy_2_caq {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_4_copy_2_caq {
+	position: absolute;
+	overflow: visible;
+	width: 248px;
+	height: 25px;
+	left: 277px;
+	top: 774px;
+}
+#ID899_car {
+	left: 334.781px;
+	top: 775.745px;
+	position: absolute;
+	overflow: visible;
+	width: 57.319px;
+	height: 43.04249954223633px;
+	line-height: 30.555559158325195px;
+	margin-top: -6.94444465637207px;
+	text-align: center;
+	font-family: Futura-MediumItalic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16.666669845581055px;
+	color: rgba(178,0,0,1);
+}
+#Add_to_cart_cas {
+	left: 420.781px;
+	top: 775.751px;
+	position: absolute;
+	overflow: visible;
+	width: 94.117px;
+	height: 40.128700256347656px;
+	line-height: 28.487035751342773px;
+	margin-top: -6.47432804107666px;
+	text-align: center;
+	font-family: Futura-MediumItalic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15.538379669189453px;
+	color: rgba(255,255,255,1);
+}
+#Grilled_cat {
+	transform: translate(-1146px, -157px) matrix(1,0,0,1,1268.0022,228.7109) rotate(-5.373deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 361.127px;
+	height: 206.14219665527344px;
+	text-align: left;
+	font-family: Blacksword;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 78.51931762695312px;
+	color: rgba(255,213,50,1);
+}
+#Seafood_Rice__cau {
+	left: 300px;
+	top: 250.75px;
+	position: absolute;
+	overflow: hidden;
+	width: 189.24px;
+	height: 61.983699798583984px;
+	line-height: 30.555559158325195px;
+	margin-top: -2.7777795791625977px;
+	text-align: left;
+	font-family: Futura-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_cav {
+	left: 271.809px;
+	top: 286.316px;
+	position: absolute;
+	overflow: hidden;
+	width: 239.584px;
+	height: 81.98470306396484px;
+	line-height: 23.36564064025879px;
+	margin-top: -5.310370445251465px;
+	text-align: center;
+	font-family: Futura-MediumItalic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12.74489974975586px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_4_caw {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_4_caw {
+	position: absolute;
+	overflow: visible;
+	width: 248px;
+	height: 25px;
+	left: 267px;
+	top: 354px;
+}
+#ID899_cax {
+	left: 324.781px;
+	top: 355.745px;
+	position: absolute;
+	overflow: visible;
+	width: 57.319px;
+	height: 43.04249954223633px;
+	line-height: 30.555559158325195px;
+	margin-top: -6.94444465637207px;
+	text-align: center;
+	font-family: Futura-MediumItalic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16.666669845581055px;
+	color: rgba(178,0,0,1);
+}
+#Add_to_cart_cay {
+	left: 410.781px;
+	top: 355.751px;
+	position: absolute;
+	overflow: visible;
+	width: 94.117px;
+	height: 40.128700256347656px;
+	line-height: 28.487035751342773px;
+	margin-top: -6.47432804107666px;
+	text-align: center;
+	font-family: Futura-MediumItalic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15.538379669189453px;
+	color: rgba(255,255,255,1);
+}
+#Grilled_Steak_Dinner__caz {
+	left: 53px;
+	top: 471.75px;
+	position: absolute;
+	overflow: hidden;
+	width: 305.414px;
+	height: 61.983699798583984px;
+	line-height: 30.555559158325195px;
+	margin-top: -2.7777795791625977px;
+	text-align: left;
+	font-family: Futura-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Lorem_ipsum_dolor_sit_amet_con_ca {
+	left: 67.809px;
+	top: 507.316px;
+	position: absolute;
+	overflow: hidden;
+	width: 239.584px;
+	height: 81.98470306396484px;
+	line-height: 23.36564064025879px;
+	margin-top: -5.310370445251465px;
+	text-align: center;
+	font-family: Futura-MediumItalic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12.74489974975586px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_4_copy_ca {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_4_copy_ca {
+	position: absolute;
+	overflow: visible;
+	width: 248px;
+	height: 25px;
+	left: 63px;
+	top: 575px;
+}
+#ID1799_ca {
+	left: 122.781px;
+	top: 576.745px;
+	position: absolute;
+	overflow: visible;
+	width: 57.319px;
+	height: 43.04249954223633px;
+	line-height: 30.555559158325195px;
+	margin-top: -6.94444465637207px;
+	text-align: center;
+	font-family: Futura-MediumItalic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16.666669845581055px;
+	color: rgba(178,0,0,1);
+}
+#Add_to_cart_ca {
+	left: 209.781px;
+	top: 577.751px;
+	position: absolute;
+	overflow: visible;
+	width: 94.117px;
+	height: 40.128700256347656px;
+	line-height: 28.487035751342773px;
+	margin-top: -6.47432804107666px;
+	text-align: center;
+	font-family: Futura-MediumItalic;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15.538379669189453px;
+	color: rgba(255,255,255,1);
+}
+#steak_pic_ca {
+	position: absolute;
+	width: 160px;
+	height: 151px;
+	left: 363px;
+	top: 461px;
+	overflow: visible;
+}
+#Rectangle_3_copy_ca {
+	position: absolute;
+	width: 160px;
+	height: 151px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_3_copy_cba {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_3_copy_cba {
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	height: 151px;
+	left: 0px;
+	top: 0px;
+}
+#Clip_ca {
+	position: absolute;
+	width: 160px;
+	height: 151px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#seafood_rice_pic__ca {
+	position: absolute;
+	width: 160px;
+	height: 151px;
+	left: 63px;
+	top: 239px;
+	overflow: visible;
+}
+#Rectangle_3_ca {
+	position: absolute;
+	width: 160px;
+	height: 151px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_3_cba {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_3_cba {
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	height: 151px;
+	left: 0px;
+	top: 0px;
+}
+#Clip_cbb {
+	position: absolute;
+	width: 160px;
+	height: 151px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#CART_SLIDE_OUT_cbc {
+	position: absolute;
+	width: 526px;
+	height: 1004.184px;
+	left: 1544.413px;
+	top: 330.271px;
+	display: none;
+	overflow: visible;
+}
+#card_slide_out_cbd {
+	fill: rgba(59,56,56,1);
+}
+.card_slide_out_cbd {
+	overflow: visible;
+	position: absolute;
+	width: 526px;
+	height: 1000px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Delivery_cbe {
+	transform: translate(-1413px, -85px) matrix(1,0,0,1,1484.9142,152.8363) rotate(-5.373deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 401.164px;
+	height: 206.14219665527344px;
+	text-align: left;
+	font-family: Blacksword;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 78.51931762695312px;
+	color: rgba(255,213,50,1);
+}
+#words_logo_copy_cbf {
+	filter: drop-shadow(0px 23px 32px rgba(0, 0, 0, 0.761));
+	position: absolute;
+	width: 358px;
+	height: 66px;
+	left: 83px;
+	top: 21px;
+	overflow: visible;
+}
+#ID611kWHog2L_AC_SY679__cbg {
+	position: absolute;
+	width: 451px;
+	height: 724px;
+	left: 29px;
+	top: 212px;
+	overflow: visible;
+}
+#Rectangle_5_cbh {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_5_cbh {
+	overflow: visible;
+	position: absolute;
+	width: 374.136px;
+	height: 76.844px;
+	left: 70.673px;
+	top: 313.841px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Your_Order_cbi {
+	left: 97.775px;
+	top: 309.583px;
+	position: absolute;
+	overflow: visible;
+	width: 318.178px;
+	height: 175.4425048828125px;
+	text-align: left;
+	font-family: BirdsofParadise-PersonaluseOnly;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 74.93267822265625px;
+	color: rgba(22,19,87,1);
+}
+#Rectangle_6_cbj {
+	fill: rgba(0,0,0,1);
+}
+.Rectangle_6_cbj {
+	position: absolute;
+	overflow: visible;
+	width: 314px;
+	height: 58px;
+	left: 105px;
+	top: 923px;
+}
+#CHECK_OUT_cbk {
+	left: 156.641px;
+	top: 927.435px;
+	position: absolute;
+	overflow: visible;
+	width: 203.218px;
+	height: 76.74870300292969px;
+	text-align: left;
+	font-family: Futura-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 31.650320053100586px;
+	color: rgba(255,213,50,1);
+}
+#RADIO_cbl {
+	position: absolute;
+	width: 263.78px;
+	height: 263.78px;
+	left: 1786.633px;
+	top: 927.491px;
+	overflow: visible;
+}
+#Ellipse_1_cbm {
+	opacity: 0.529;
+	fill: rgba(180,6,8,1);
+}
+.Ellipse_1_cbm {
+	position: absolute;
+	overflow: visible;
+	width: 263.78px;
+	height: 263.78px;
+	left: 0px;
+	top: 0px;
+}
+#ID81SITrCal8L_SY355__cbn {
+	opacity: 0.51;
+	position: absolute;
+	width: 81px;
+	height: 81px;
+	left: 43.78px;
+	top: 57.78px;
+	overflow: visible;
+}
+#Triangle_1_cbo {
+	fill: rgba(255,255,255,1);
+}
+.Triangle_1_cbo {
+	overflow: visible;
+	position: absolute;
+	width: 36.757px;
+	height: 47.112px;
+	left: 68.78px;
+	top: 77.224px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#top_bar_words_and_logos_cbp {
+	position: absolute;
+	width: 1926px;
+	height: 103px;
+	left: -0.587px;
+	top: -45.729px;
+	overflow: visible;
+}
+#top_bar__cbq {
+	fill: rgba(180,6,8,1);
+}
+.top_bar__cbq {
+	filter: drop-shadow(0px 23px 32px rgba(0, 0, 0, 0.761));
+	overflow: visible;
+	position: absolute;
+	width: 2022px;
+	height: 183px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_2_cbr {
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_2_cbr {
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	height: 37px;
+	left: 1643px;
+	top: 74px;
+}
+#Ellipse_2_copy_cbs {
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_2_copy_cbs {
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	height: 37px;
+	left: 1708px;
+	top: 72px;
+}
+#Ellipse_2_copy_2_cbt {
+	fill: rgba(0,0,0,1);
+}
+.Ellipse_2_copy_2_cbt {
+	position: absolute;
+	overflow: visible;
+	width: 37px;
+	height: 37px;
+	left: 1773px;
+	top: 72px;
+}
+#HOME_cbu {
+	left: 963px;
+	top: 78.75px;
+	position: absolute;
+	overflow: visible;
+	width: 89.242px;
+	height: 70.33329772949219px;
+	line-height: 30.555559158325195px;
+	margin-top: -2.7777795791625977px;
+	text-align: left;
+	font-family: Futura-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(254,254,254,1);
+}
+#MENU_cbv {
+	left: 1097px;
+	top: 78.75px;
+	position: absolute;
+	overflow: visible;
+	width: 88.781px;
+	height: 70.33329772949219px;
+	line-height: 30.555559158325195px;
+	margin-top: -2.7777795791625977px;
+	text-align: left;
+	font-family: Futura-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#MERCH_cbw {
+	left: 1231px;
+	top: 78.75px;
+	position: absolute;
+	overflow: visible;
+	width: 112.189px;
+	height: 70.33329772949219px;
+	line-height: 30.555559158325195px;
+	margin-top: -2.7777795791625977px;
+	text-align: left;
+	font-family: Futura-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#OUR_PARTNERS_cbx {
+	left: 1388px;
+	top: 78.75px;
+	position: absolute;
+	overflow: visible;
+	width: 210.189px;
+	height: 70.33329772949219px;
+	line-height: 30.555559158325195px;
+	margin-top: -2.7777795791625977px;
+	text-align: left;
+	font-family: Futura-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,213,50,1);
+}
+#bag_cby {
+	position: absolute;
+	width: 34px;
+	height: 46px;
+	left: 1850px;
+	top: 67px;
+	overflow: visible;
+}
+#words_logo_cbz {
+	filter: drop-shadow(0px 23px 32px rgba(0, 0, 0, 0.761));
+	position: absolute;
+	width: 447px;
+    height: 180px;
+    left: 10px;
+    top: 40px;
+	overflow: visible;
+}
+#twitter_cb {
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	left: 1649px;
+	top: 35px;
+	overflow: visible;
+}
+#instagram_cb {
+	position: absolute;
+	width: 21px;
+	height: 21px;
+	left: 1715px;
+	top: 37px;
+	overflow: visible;
+}
+#facebook_cb {
+	position: absolute;
+	width: 25px;
+	height: 25px;
+	left: 1779px;
+	top: 34px;
+	overflow: visible;
+}
+#YOUR_STORE__MIRAMAR_12328_cb {
+	left: 525px;
+	top: 19px;
+	position: absolute;
+	overflow: visible;
+	width: 221px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_3_cb {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_3_cb {
+	position: absolute;
+	overflow: visible;
+	width: 134px;
+	height: 37px;
+	left: 775px;
+	top: 27px;
+}
+#CHANGE_cb {
+	left: 793px;
+	top: 33px;
+	position: absolute;
+	overflow: visible;
+	width: 100px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#OUR_PARTNERS_cb {
+	left: 682px;
+	top: 163px;
+	position: absolute;
+	overflow: visible;
+	width: 558px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 85px;
+	color: rgba(255,255,255,1);
+}
+#ID7D897788-DCA1-4048-90F1-398F_cb {
+	position: absolute;
+	width: 776px;
+	height: 387px;
+	left: 572px;
+	top: 217px;
+	overflow: visible;
+}
+#icecreamheavenvectornewcolors {
+	position: absolute;
+	width: 1083px;
+	height: 1083px;
+	left: -74px;
+	top: 19px;
+	overflow: visible;
+}
+#rootbeerbarlogo2020dark {
+	position: absolute;
+	width: 857px;
+	height: 429px;
+	left: 1052px;
+	top: 391px;
+	overflow: visible;
+}
+#rest {
+	position: absolute;
+	width: 690px;
+	height: 690px;
+	left: 134px;
+	top: 458px;
+	overflow: visible;
+}
+#rest_ccb {
+	position: absolute;
+	width: 744px;
+	height: 744px;
+	left: 1109px;
+	top: 272px;
+	overflow: visible;
+}

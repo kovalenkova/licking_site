@@ -1,0 +1,394 @@
+@font-face {
+	font-family: "Blacksword";
+	src: url("Blacksword.otf") format("opentype")
+}
+
+@font-face {
+	font-family: "Impact";
+	src: url("impact.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "DINCondensed-Bold";
+	src: url("din-condensed-bold.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Futura";
+	src: url("futur.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Futura-Bold";
+	src: url("Futura\ Bold\ font.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Futura-MediumItalic";
+	src: url("Futura\ Medium\ Italic\ font.ttf") format("truetype");
+}
+
+@font-face {
+	font-family: "Sketch";
+	src: url("Sketch.ttf") format("truetype");
+}
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 6;
+	--web-view-id: Web_1920__6;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__6;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__6 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(0,0,0,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 6;
+	--web-view-id: Web_1920__6;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_3_cgw {
+	transform: matrix(1,0,0,1,656.9999,367.9999) rotate(0deg);
+	transform-origin: center;
+	position: absolute;
+	width: 606.326px;
+	height: 606.326px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_3_cgx {
+	opacity: 0;
+	fill: transparent;
+	stroke: rgba(172,4,17,1);
+	stroke-width: 20px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_3_cgx {
+	overflow: visible;
+	position: absolute;
+	width: 428.737px;
+	height: 428.738px;
+	transform: translate(-518.955px, -237.205px) matrix(1,0,0,1,607.749,325.9997) rotate(-45deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_8_cgy {
+	fill: transparent;
+	stroke: rgba(255,213,50,1);
+	stroke-width: 20px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_8_cgy {
+	overflow: visible;
+	position: absolute;
+	width: 214.369px;
+	height: 214.369px;
+	transform: translate(-518.955px, -237.205px) matrix(1,0,0,1,821.9329,540.1845) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Group_4_cgz {
+	transform: matrix(1,0,0,1,656.9999,367.9997) rotate(0deg);
+	transform-origin: center;
+	position: absolute;
+	width: 606.326px;
+	height: 606.326px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_3_cg {
+	opacity: 0;
+	fill: transparent;
+	stroke: rgba(255,213,50,1);
+	stroke-width: 20px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_3_cg {
+	overflow: visible;
+	position: absolute;
+	width: 428.737px;
+	height: 428.738px;
+	transform: translate(-518.955px, -237.205px) matrix(1,0,0,1,607.749,325.9997) rotate(-45deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Path_8_cg {
+	fill: transparent;
+	stroke: rgba(180,5,18,1);
+	stroke-width: 20px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_8_cg {
+	overflow: visible;
+	position: absolute;
+	width: 214.369px;
+	height: 428.738px;
+	transform: translate(-518.955px, -237.205px) matrix(1,0,0,1,714.7485,433.0001) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#box_logo__cg {
+	position: absolute;
+	width: 325px;
+	height: 326px;
+	left: 797.413px;
+	top: 485.271px;
+	overflow: visible;
+}
+#MIAMI_GARDENS_cg {
+	left: 100px;
+	top: 239px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,213,50,1);
+}
+#MIAMI_GARDENS_cha {
+	left: 1428px;
+	top: 239px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,213,50,1);
+}
+#NORTH_MIAMI_cg {
+	left: 100px;
+	top: 342px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,213,50,1);
+}
+#NORTH_MIAMI_cha {
+	left: 1428px;
+	top: 342px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,213,50,1);
+}
+#MIRAMAR_cg {
+	left: 100px;
+	top: 445px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,213,50,1);
+}
+#MIRAMAR_cha {
+	left: 1428px;
+	top: 445px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,213,50,1);
+}
+#SUNRISE_cg {
+	left: 100px;
+	top: 548px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,213,50,1);
+}
+#SUNRISE_cha {
+	left: 1428px;
+	top: 548px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,213,50,1);
+}
+#CHICAGO_chb {
+	left: 100px;
+	top: 651px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,213,50,1);
+}
+#CHICAGO_chc {
+	left: 1428px;
+	top: 651px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,213,50,1);
+}
+#MIAMI_BEACH_chd {
+	left: 100px;
+	top: 754px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,213,50,1);
+}
+#MIAMI_BEACH_che {
+	left: 1428px;
+	top: 754px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,213,50,1);
+}
+#ORLANDO_chf {
+	left: 100px;
+	top: 857px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,213,50,1);
+}
+#ORLANDO_chg {
+	left: 1428px;
+	top: 857px;
+	position: absolute;
+	overflow: visible;
+	width: 395px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,213,50,1);
+}
+#words_logo_chh {
+	filter: drop-shadow(0px 23px 32px rgba(0, 0, 0, 0.761));
+	position: absolute;
+	width: 381px;
+	height: 140px;
+	left: 106.413px;
+	top: 134.271px;
+	overflow: visible;
+}
+#words_logo_chi {
+	filter: drop-shadow(0px 23px 32px rgba(0, 0, 0, 0.761));
+	position: absolute;
+	width: 381px;
+	height: 140px;
+	left: 1434.413px;
+	top: 134.271px;
+	overflow: visible;
+}
+#_LOADING {
+	left: 681px;
+	top: 276px;
+	position: absolute;
+	overflow: visible;
+	width: 560px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Futura;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
