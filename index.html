@@ -18,6 +18,7 @@ Get developer-friendly React or HTML/CSS code for this project at: https://proje
     <script id="anima-hotspots-script" src="hotspots.js"></script>
     <script id="anima-overrides-script" src="overrides.js"></script>
     <script src="https://animaapp.s3.amazonaws.com/js/timeline.js"></script>
+    
     <style>
       @import url('https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css');
       @import url('https://fonts.googleapis.com/css?family=Sketch:500');
@@ -3008,7 +3009,14 @@ Get developer-friendly React or HTML/CSS code for this project at: https://proje
     <meta name="author" content="AnimaApp.com - Design to code, Automated." />
   </head>
   <body style="margin: 0; background: rgba(0, 0, 0, 1)">
-    <audio controls autoplay hidden loop><source src="https://kovalenkova.github.io/licking_site/dj-khaled-ft-drake-greece-official-audio-NCHFUHRe604.mp3" type="audio/mpeg"/>Your browser does not support the audio element.</audio> 
+    
+    <audio src="https://kovalenkova.github.io/licking_site/dj-khaled-ft-drake-greece-official-audio-NCHFUHRe604.mp3" id="audio" loop="loop" autoplay="autoplay"></audio> 
+    <script type="text/javascript">
+      window.onload=function() {
+        document.getElementById("audio").play();
+      }
+    </script>
+    
     <input type="hidden" id="anPageName" name="page" value="web-1920-5" />
     <div class="container-center-horizontal">
       <div
